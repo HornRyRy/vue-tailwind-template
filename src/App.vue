@@ -17,7 +17,7 @@
 }
 
 .kenobi {
-  font-size: 16px; color:blue;
+  @apply text-3xl text-blue-400;
 }
 
 
