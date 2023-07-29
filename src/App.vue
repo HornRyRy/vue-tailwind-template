@@ -5,6 +5,8 @@
   <div class="kenobi">
     Hello there
   </div>
+  <p>ahhh, General</p>
+  <button>Pew Pew</button>
 </template>
 
 <script setup>
