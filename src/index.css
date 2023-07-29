@@ -3,5 +3,17 @@
 @tailwind utilities;
 
 @layer base{
+
+}
+
+@layer components{
+    .btn-blue{
+        @apply bg-blue-400 py-2 px-4 rounded-md
+        hover:bg-blue-900
+    }
+    
+}
+
+@layer utilities{
     
 }

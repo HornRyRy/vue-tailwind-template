@@ -6,7 +6,7 @@
     Hello there
   </div>
   <p>ahhh, General</p>
-  <button>Pew Pew</button>
+  <button class="btn-blue">Pew Pew</button>
 </template>
 
 <script setup>
